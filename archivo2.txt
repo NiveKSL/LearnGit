@@ -1,3 +1,0 @@
-Segundo mensaje en git
-Esta es una modificacion
-Esta es otra modificacion
